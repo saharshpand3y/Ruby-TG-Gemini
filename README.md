@@ -15,16 +15,11 @@ This project enables users to interact with a Telegram bot by sending text messa
 
 ## Configuration
 
-1. Rename the .env.sample file to .env & fill in Your Gemini API Key & Telegram Bot Token:
-
-   - [Gemini API](https://aistudio.google.com/app/u/1/apikey)
-   - [Telegram Bot Token](http://t.me/botfather)
-
-2. Bot Token:
+1. Bot Token:
 
    - Obtain a Telegram Bot token by creating a bot using the BotFather bot on Telegram.
 
-3. API Key:
+2. API Key:
 
    - Obtain a Gemini API Key by Signing up for an account on Gemini's Website.
 
@@ -42,7 +37,12 @@ This project enables users to interact with a Telegram bot by sending text messa
      cd Ruby-TG-Gemini
    ```
 
-3. Install dependencies:
+3. Rename the .env.sample file to .env & fill in Your Gemini API Key & Telegram Bot Token:
+
+   - [Gemini API](https://aistudio.google.com/app/u/1/apikey)
+   - [Telegram Bot Token](http://t.me/botfather)
+
+4. Install dependencies:
 
    - If you are a Mac/Linux User:
 
