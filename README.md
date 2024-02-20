@@ -28,7 +28,7 @@ This project enables users to interact with a Telegram bot by sending text messa
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/your-username/telegram-gemini-project.git
+   $ git clone https://github.com/saharshpand3y/Ruby-TG-Gemini.git
    ```
 
 2. Go to Project Directory:
